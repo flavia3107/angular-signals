@@ -20,7 +20,7 @@ It showcases the use of **Angular Signals**, a modern reactive state management 
 - **Languages**: TypeScript, HTML, CSS/SCSS  
 - **Framework**: Angular 17  
 - **Reactive State Management**: Angular Signals  
-- **Styling**: Angular Material (optional), SCSS  
+- **Styling**: Angular Material, SCSS  
 - **Tools**: VS Code, Git, GitHub  
 
 ---
