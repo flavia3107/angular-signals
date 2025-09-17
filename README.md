@@ -1,28 +1,44 @@
-# AngularSignals
+# ⚡ Angular Signals Mini Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-rc.1.
+This mini project is part of the **Angular - The Complete Guide (2025 Edition)** Udemy course.  
+It showcases the use of **Angular Signals**, a modern reactive state management feature introduced in Angular to simplify and optimize reactivity.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📌 Features
 
-## Code scaffolding
+- Use of **Angular Signals** for reactive data flow  
+- Efficient change detection with minimal overhead  
+- Signal-based component state management  
+- Integration with Angular templates and lifecycle  
+- Clear and concise reactive programming patterns  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠️ Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Languages**: TypeScript, HTML, CSS/SCSS  
+- **Framework**: Angular 17  
+- **Reactive State Management**: Angular Signals  
+- **Styling**: Angular Material, SCSS  
+- **Tools**: VS Code, Git, GitHub  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🎯 Learning Objectives
 
-## Running end-to-end tests
+✅ Understand the concept and benefits of Angular Signals  
+✅ Implement reactive components with signals  
+✅ Compare Signals with other state management approaches  
+✅ Optimize Angular app performance with reactive primitives  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🚀 Live Demo
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-signals
+[Demo](https://flavia3107.github.io/angular-signals/)
+
+## 🎖️ Credits
+
+This project is built as part of the [**Udemy Course: Angular - The Complete Guide (2025 Edition)**](https://www.udemy.com/course-dashboard-redirect/?course_id=756150) by Maximilian Schwarzmüller.
+
