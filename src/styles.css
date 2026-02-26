@@ -10,6 +10,7 @@ html {
 body {
   margin: 0;
   background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  background-attachment: fixed;
 }
 
 h1,
@@ -76,15 +77,15 @@ a {
   width: 9px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #6e6a86;
+  background: #a7a7a7;
   width: 9px;
 }
 ::-webkit-scrollbar-track {
-  background: #1f1d2b;
+  background: transparent;
   width: 9px;
 }
 ::-webkit-scrollbar-corner {
-  background: #1f1d2b;
+  background: transparent;
 }
 
 .container {
@@ -97,4 +98,10 @@ a {
   align-items: center;
   justify-content: center;
   border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 90%;
+  }
 }
